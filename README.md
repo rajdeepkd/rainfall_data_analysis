@@ -1,0 +1,1 @@
+Rainfall data by Indian Meterological Department for data analysis and machine learning implementation. Gridded data files contain atmospheric data in latitude and longitude spanning entire Indian Subcontienent.
